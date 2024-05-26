@@ -1,0 +1,14 @@
+.cool-button {
+    background-color: #000000;
+    color: white;
+    font-weight: bold;
+}
+
+.lame-button {
+    background-color: #ffff00;
+}
+
+.cool-button, .lame-button {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
